@@ -1,2 +1,2 @@
-"# countsockspair"\n
+"# countsockspair"<br\>
 https://khyatipadhiyar.github.io/countsockspair/
